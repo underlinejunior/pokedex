@@ -1,0 +1,22 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #bb2c2c;
+}
+
+.content {
+    width: 100vw;
+    height: 100vh;
+    padding: 1rem;
+    background-color: rgb(93, 93, 93);
+}
+h1{
+    color:white;
+    text-align: center;
+    background-color:#bb2c2c;
+    border-radius: 1rem;
+    font-weight: 900;
+}
